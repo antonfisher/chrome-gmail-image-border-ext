@@ -1,7 +1,7 @@
 {
   "name": "__MSG_l10n_ext_name__",
-  "version": "0.1.3",
-  "manifest_version": 2,
+  "version": "0.2.0",
+  "manifest_version": 3,
   "description": "__MSG_l10n_ext_description__",
   "homepage_url": "https://github.com/antonfisher/chrome-gmail-image-border-ext",
   "icons": {
@@ -10,7 +10,8 @@
     "128": "icons/icon-128.png"
   },
   "default_locale": "en",
-  "permissions": [
+  "permissions": [],
+  "host_permissions": [
     "https://mail.google.com/mail/*"
   ],
   "content_scripts": [
