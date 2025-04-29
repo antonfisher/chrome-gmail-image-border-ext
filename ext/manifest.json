@@ -1,6 +1,6 @@
 {
   "name": "__MSG_l10n_ext_name__",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "manifest_version": 3,
   "description": "__MSG_l10n_ext_description__",
   "homepage_url": "https://github.com/antonfisher/chrome-gmail-image-border-ext",
