@@ -1,4 +1,4 @@
-# Chrome "Gmail Image Border" Extension
+# Chrome "Gmail Image Border" extension
 
 ![Version](https://img.shields.io/badge/version-0.2.1-green.svg)
 ![Status](https://img.shields.io/badge/status-beta-blue.svg)
